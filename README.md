@@ -11,6 +11,7 @@ A full-stack e-commerce App where Anybody can select product and can order this 
 - Bootstrap
 - Express.js
 - MongoDB
+- local storage
 - Firebase Authentication
 - Heroku
 
